@@ -6,7 +6,7 @@ def count_words(sentence):
     words = re.findall(r'\b\w+\b', sentence)
     return len(words)
 
-if _name_ == "_main_":
+if __name__ == "__main__":
     test_sentence = "Hello, world! This is Feature 1."
     print("Word count:", count_words(test_sentence))  # Expected output: 5
 
