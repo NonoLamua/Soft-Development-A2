@@ -6,9 +6,13 @@ This project simulated a software development process using Git, focusing on ver
 
 We had different roles and responsibilities
 Antonio: Managed the `master` branch and tagged stable releases
+
 Pablo: Overseed the `develop` branch and integrated features.
-Narcís, Rafa and Francisco: Worked on individual features (Feature 1, Feature 2, Feature 3), resolving conflicts and merging them into `develop`.
+
+Narcís, Francisco and Yago: Worked on individual features (Feature 1, Feature 2, Feature 3), resolving conflicts and merging them into `develop`.
+
 Rafa: Created hotfixes for bugs found in the first release.
+
 Yago: Conducted testing, verified features, and coordinated bug fixes.
 
 
